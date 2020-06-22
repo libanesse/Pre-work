@@ -1,0 +1,26 @@
+body {
+    background-color:firebrick
+}
+box-1 {
+    font-family: cursive;
+    font-size: 60px;
+    font-variant: normal;
+    font-style: italic;
+}
+h1 {
+    font-family: cursive;
+    font-size: 60px;
+    font-style: oblique;
+}
+h2 {
+    font-family: cursive; font-style: normal;
+}
+p {
+    font-family: cursive; font-style: normal;
+}
+
+block {
+    border-width: large; border-style: solid;
+}
+    
+image {border-width: thick; border-style: solid;} 
